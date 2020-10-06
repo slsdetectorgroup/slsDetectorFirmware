@@ -1,0 +1,41 @@
+#!/usr/bin/python
+import sys
+import os
+
+def usage():
+  print "Usage :  bcp <src>  <dst>"
+  print "Examples"
+  print "  Write firmware:  bcp download.bit beb001:/fw0 "
+  sys.exit (1)
+
+if len(sys.argv) != 3:
+  usage()
+
+src_split = sys.argv[1].split(':')
+dst_split = sys.argv[2].split(':')
+
+if (len(src_split)==1):
+  if (len(dst_split)!=2):
+    usage()
+  local=src_split[0]
+  host=dst_split[0]
+  remote=dst_split[1]
+  cmd="echo -e binary \\\\nput %s %s | tftp %s"%(local,remote,host)
+#  print cmd
+  os.system(cmd)
+  print
+elif (len(src_split)==2):
+  if (len(dst_split)!=1):
+    usage()
+  local=dst_split[0]
+  host=src_split[0]
+  remote=src_split[1]
+  cmd="echo -e binary \\\\nget %s %s | tftp %s"%(remote,local,host)
+#  print cmd
+  os.system(cmd)
+  print
+else:
+  usage()
+
+#echo -e binary \\nput $2 $3 | tftp $1
+

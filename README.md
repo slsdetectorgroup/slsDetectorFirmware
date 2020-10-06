@@ -31,3 +31,12 @@
 |3.1.0 - 3.1.5|20|[v20](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/eiger/v20/)||
 
 * * *
+
+## Moench Firmware Compatibility
+
+|Software Version|HW Compatibility|Release Date|Link|Comments|
+|---|---|:---:|:---:|---|
+|5.0.0-rc2    |EPCQ128|[05.10.2020]|[v1.0](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/moench/EPCQ128|v1_0/moench_v1_0_201005.pof)||
+|5.0.0-rc2    |EPCS128|[05.10.2020]|[v1.0](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/moench/EPCS128|v1_0/moench_v1_0_201005.pof)||
+
+* * *

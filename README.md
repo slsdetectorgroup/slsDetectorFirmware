@@ -26,9 +26,9 @@
 
 |Software Version|HW Compatibility|Release Date|Link|Comments|
 |---|:---:|:---:|:---:|---|
-|5.0.0-rc2    ||08.09.2020|[v27](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/eiger/v27/)||
-|4.0.0 - 4.2.0||30.07.2019|[v24](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/eiger/v24/)||
-|3.1.0 - 3.1.5||17.08.2017|[v20](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/eiger/v20/)||
+|5.0.0-rc2    |-|08.09.2020|[v27](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/eiger/v27/)||
+|4.0.0 - 4.2.0|-|30.07.2019|[v24](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/eiger/v24/)||
+|3.1.0 - 3.1.5|-|17.08.2017|[v20](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/eiger/v20/)||
 
 * * *
 

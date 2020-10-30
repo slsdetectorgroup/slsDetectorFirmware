@@ -1,0 +1,45 @@
+Gotthard I (50um) Firmware released on 08.02.2018 (v1.0)
+========================================================
+
+    CONTENTS
+    --------
+    1.  Constraints 
+    2.	Performance
+    3.  Upgrade Documentation & Support
+
+
+1. Constraints
+===============
+
+	Minimum Exposure Time : 186 ns
+	Minimum Period        : 1278 ns  + Exposure Time
+
+
+2. Performance
+===============
+
+	With a spectrum of 1280 channels, the detector can have a frame rate of
+	40Khz and a readout time of 23µs.
+
+	With a spectrum of 256 channels, the detector can have a frame rate of
+	200kHz and a readout time of 5µs 
+
+
+3. Upgrade Documentation & Support
+==================================
+
+    	Documentation
+	-------------
+
+	This detector cannot be upgraded remotely and requires a USB Blaster.
+
+
+	Instructions to upgrade and software compatibility:
+		https://slsdetectorgroup.github.io/devdoc/firmware.html#gotthard
+
+
+	Support
+    	-------	
+
+	carlos.lopez-cuenca@psi.ch
+

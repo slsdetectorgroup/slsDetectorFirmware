@@ -37,7 +37,7 @@
 
 |Software|Hardware|Firmware date|Firmware Link|Comments|
 |---|---|:---:|:---:|---|
-|v5.0.0 - v5.0.1||[05.10.2020]|[v1.0](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/moench/EPCQ128/v1_0/moench_v1_0_201005.pof)||
+|v5.0.0 - v5.0.1||[05.10.2020]|[v1.0](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/moench/v1_0/moench_v1_0_201005.pof)||
 
 * * *
 

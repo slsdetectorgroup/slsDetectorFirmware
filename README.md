@@ -14,8 +14,8 @@
 
 |Software|Hardware|Firmware date|Firmware Link|Comments|
 |---|:---:|:---:|:---:|---|
+|v5.1.0         |1.0|18.02.2021|[v1.1.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v1_1_1/jungfrau_v1_1_1.pof)||
 |v5.0.0 - v5.1.0|2.0|21.07.2020|[v2.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v2_1/jungfrau_v2_1.pof)||
-|v5.1.0|1.0|18.02.2021|[v1.1.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v1_1_1/jungfrau_v1_1_1.pof)||
 |v5.0.0 - v5.0.1|1.0|24.07.2020|[v1.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v1_1/jungfrau_v1_1.pof)||
 |v4.0.1 - v4.2.0|1.0|06.12.2018|[v0.7](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v0_7/jungfrau_v0_7.pof)||
 |v3.1.0 - v3.1.5|1.0|13.11.2017|[v0.6](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v0_6/jungfrau_v0_6.pof)||
@@ -27,6 +27,7 @@
 
 |Software|Hardware|Firmware date|Firmware Link|Comments|
 |---|:---:|:---:|:---:|---|
+|v6.0.0 - v6.0.0|-|08.10.2021|[v29](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/eiger/v29/)||
 |v5.0.0 - v5.1.0|-|08.09.2020|[v27](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/eiger/v27/)||
 |v4.0.0 - v4.2.0|-|30.07.2019|[v24](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/eiger/v24/)||
 |v3.1.0 - v3.1.5|-|17.08.2017|[v20](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/eiger/v20/)||

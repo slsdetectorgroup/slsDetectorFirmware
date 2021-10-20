@@ -52,3 +52,11 @@
 |v5.0.0 - v5.0.1|EPCS128|[05.10.2020]|[v1.0](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/ctb/EPCS128/v1_0/ctb_v1_0_201005.pof)|25Q128A|
 
 * * *
+
+## Gotthard - II Firmware Compatibility
+
+|Software|Hardware|Firmware date|Firmware Link|Comments|
+|---|:---:|:---:|:---:|---|
+|v6.0.0|1.2|05.08.2021|[v0.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/gotthard_II/v0_1/gotthard-II_v0_1.rbf)||
+
+* * *

@@ -60,3 +60,11 @@
 |v6.0.0|1.2|05.08.2021|[v0.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/gotthard_II/v0_1/gotthard-II_v0_1.rbf)||
 
 * * *
+
+## Mythen - III Firmware Compatibility
+
+|Software|Hardware|Firmware date|Firmware Link|Comments|
+|---|:---:|:---:|:---:|---|
+|v6.0.0|1.2|10.09.2021|[v1.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/mythen_III/v1_1/mythen-III_v1_1.rbf)||
+
+* * *

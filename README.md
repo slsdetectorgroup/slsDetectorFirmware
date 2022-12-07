@@ -41,7 +41,8 @@
 
 |Software|Hardware|Firmware date|Firmware Link|Comments|
 |---|---|:---:|:---:|---|
-|v5.0.0 - v6.1.1||[05.10.2020]|[v1.0](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/moench/v1_0/moench_v1_0_201005.pof)||
+|v7.0.0.rcx|1.0|[05.12.2022]|[v0.3](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/moench/v0_3/moench_v0_3_221205.pof)||
+|v5.0.0 - v6.1.1|1.0|[05.10.2020]|[v0.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/moench/v0_1/moench_v0_1_201005.pof)||
 
 * * *
 
@@ -49,6 +50,8 @@
 
 |Software|Hardware|Firmware date|Firmware Link|Comments |
 |---|---|:---:|:---:|---|
+|v7.0.0.rcx|EPCQ128|[05.12.2022]|[v1.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/ctb/EPCQ128/v1_1/ctb_v1_1_221205.pof)|RW137|
+|v7.0.0.rcx|EPCS128|[05.12.2022]|[v1.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/ctb/EPCS128/v1_1/ctb_v1_1_221205.pof)|25Q128A|
 |v5.0.0 - v6.1.1|EPCQ128|[05.10.2020]|[v1.0](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/ctb/EPCQ128/v1_0/ctb_v1_0_201005.pof)|RW137|
 |v5.0.0 - v6.1.1|EPCS128|[05.10.2020]|[v1.0](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/ctb/EPCS128/v1_0/ctb_v1_0_201005.pof)|25Q128A|
 
@@ -66,6 +69,7 @@
 
 |Software|Hardware|Firmware date|Firmware Link|Comments|
 |---|:---:|:---:|:---:|---|
+|v7.0.0.rcx|1.2|05.12.2022|[v1.4](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/mythen_III/v1_4/mythen-III_v1_4_221205.rbf)||
 |v6.0.0 - v6.1.1|1.2|10.09.2021|[v1.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/mythen_III/v1_1/mythen-III_v1_1.rbf)||
 
 * * *

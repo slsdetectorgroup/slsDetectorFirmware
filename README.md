@@ -46,6 +46,7 @@
 
 |Software|Hardware|Firmware date|Firmware Link|Comments|
 |---|---|:---:|:---:|---|
+|v8.0.2 - v8.0.2|2.0|[26.10.2023]|[v0.3.2](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/moench/v0_3_2/moench_v0_3_2_231026.pof)||
 |v8.0.0 - v8.0.1|2.0|            ||Development|
 |v7.0.0 - v7.0.3|1.0|[05.12.2022]|[v0.3](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/moench/v0_3/moench_v0_3_221205.pof)||
 |v5.0.0 - v6.1.2|1.0|[05.10.2020]|[v0.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/moench/v0_1/moench_v0_1_201005.pof)||

@@ -79,7 +79,7 @@
 
 |Software|Hardware|Firmware date|Firmware Link|Comments|
 |---|:---:|:---:|:---:|---|
-|v9.0.0|1.2-1.3|13.11.2024|[v2.0](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/mythen_III/v1_4/mythen-III_v2.rbf)||
+|v9.0.0|1.2-1.3|13.11.2024|[v2.0](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/mythen_III/v2_0/mythen-III_v2_0.rbf)||
 |v7.0.0 - v8.0.2|1.2|24.01.2023|[v1.4](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/mythen_III/v1_4/mythen-III_v1_4_230124.rbf)||
 |v6.0.0 - v6.1.2|1.1|10.09.2021|[v1.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/mythen_III/v1_1/mythen-III_v1_1.rbf)||
 

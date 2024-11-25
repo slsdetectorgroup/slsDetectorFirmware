@@ -70,6 +70,7 @@
 
 |Software|Hardware|Firmware date|Firmware Link|Comments|
 |---|:---:|:---:|:---:|---|
+|v9.0.0		|1.2|03.10.2024|[v1.0](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/gotthard_II/v1_0/gotthard-II_v1_0.rbf)||
 |v7.0.0 - v8.0.2|1.2|23.11.2022|[v0.3](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/gotthard_II/v0_3/gotthard-II_v0_3.rbf)||
 |v6.0.0 - v6.1.2|1.2|05.08.2021|[v0.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/gotthard_II/v0_1/gotthard-II_v0_1.rbf)||
 

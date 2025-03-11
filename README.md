@@ -14,10 +14,10 @@
 
 |Software|Hardware|Firmware date|Firmware Link|Comments|
 |---|:---:|:---:|:---:|---|
-|v9.1.0|2.0|21.09.2023|[v2.5](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v2_5/jungfrau_v2_5.pof)||
-|v9.1.0|1.0|20.09.2023|[v1.5](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v1_5/jungfrau_v1_5.pof)||
-|v8.0.0 - v9.0.0|2.0|08.02.2025|[v2.6](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v2_6/jungfrau_v2_6.pof)||
-|v8.0.0 - v9.0.0|1.0|09.02.2025|[v1.6](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v1_6/jungfrau_v1_6.pof)||
+|v9.1.0|2.0|08.02.2025|[v2.6](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v2_6/jungfrau_v2_6.pof)||
+|v9.1.0|1.0|09.02.2025|[v1.6](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v1_6/jungfrau_v1_6.pof)||
+|v8.0.0 - v9.0.0|2.0|21.09.2023|[v2.5](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v2_5/jungfrau_v2_5.pof)||
+|v8.0.0 - v9.0.0|1.0|20.09.2023|[v1.5](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v1_5/jungfrau_v1_5.pof)||
 |v7.0.0 - v7.0.3|2.0|15.05.2023|[v2.4.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v2_4_1/jungfrau_v2_4_1.pof)||
 |v7.0.0 - v7.0.3|1.0|16.05.2023|[v1.4.1](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v1_4_1/jungfrau_v1_4_1.pof)||
 |v6.0.0 - v6.1.2|2.0|22.04.2022|[v2.3](https://github.com/slsdetectorgroup/slsDetectorFirmware/blob/master/binaries/jungfrau/v2_3/jungfrau_v2_3.pof)||
